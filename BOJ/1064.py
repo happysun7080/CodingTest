@@ -1,3 +1,14 @@
+### Silver 5 ###
+
+# 1차: 210116
+# 2차: 210917
+
+'''
+평행사변형
+- 수학
+- 기하학
+'''
+
 import math
 
 xa, ya, xb, yb, xc, yc = map(int, input().split())
@@ -10,16 +21,6 @@ if xa-xb != 0:
     _ab = abs((ya-yb)/(xa-xb))
 else:
     _ab = 0
-### Silver 5 ###
-
-# 1차: 210116
-# 2차: 210917
-
-'''
-평행사변형
-- 수학
-- 기하학
-'''
 
 if xb-xc != 0:
     _bc = abs((yb-yc)/(xb-xc))
