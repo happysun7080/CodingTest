@@ -47,3 +47,5 @@ while cnt <= K:
                     exit()
                 j += value
     i += 1
+
+    
