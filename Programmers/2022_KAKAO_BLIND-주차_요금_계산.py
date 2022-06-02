@@ -1,3 +1,13 @@
+### level 3 ###
+
+# 1차: 220523
+# 2차: 220603
+
+'''
+2022 KAKAO BLIND RECRUITMENT - 주차 요금 계산
+'''
+
+
 import math
 
 
