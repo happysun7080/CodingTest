@@ -1,2 +1,2 @@
 # CodingTest
-코딩 테스트 문제 풀이
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happysun7080)](https://solved.ac/happysun7080/)
